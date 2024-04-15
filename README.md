@@ -289,7 +289,7 @@
           <div class="card-body">
             <div class="h5">Software Engineer</div>
             <p class="category">2019 - 2023</p>
-            <p>Manisa Celal Bayar University, Faculty of Engineering, Department of Software Engineering</p>
+            <p>Manisa Celal Bayar University, Faculty of Engineering, Department of Software Engineering. CGPA: 3,1</p>
           </div>
         </div>
       </div>
